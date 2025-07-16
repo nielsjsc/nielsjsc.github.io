@@ -9,7 +9,8 @@ description: "Personal website powered by Jekyll and GitHub Pages."
 author: "Niels Christoffersen"
 
 # Theme settings
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 plugins:
 - jekyll-remote-theme
 
