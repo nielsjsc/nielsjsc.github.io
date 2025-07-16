@@ -9,7 +9,7 @@ description: "Personal website powered by Jekyll and GitHub Pages."
 author: "Niels Christoffersen"
 
 # Theme settings
-remote_theme: alshedivat/al-folio
+remote_theme: thelehhman/texture
 plugins:
 - jekyll-remote-theme
 
