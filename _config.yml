@@ -10,7 +10,7 @@ author: "Niels Christoffersen"
 
 # Theme settings
 # You can change 'minima' to another supported theme if you wish
-theme: leap-day
+theme: cayman
 
 # Build settings
 markdown: kramdown
