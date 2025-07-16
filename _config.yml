@@ -1,0 +1,22 @@
+# Site settings
+# Change these values to personalize your site
+
+# Title of your site
+title: "Niels Christoffersen GitHub Page"
+# Description of your site
+description: "Personal website powered by Jekyll and GitHub Pages."
+# Author name
+author: "Niels Christoffersen"
+
+# Theme settings
+# You can change 'minima' to another supported theme if you wish
+remote_theme: "jekyll/minima"
+
+# Build settings
+markdown: kramdown
+
+# Exclude these files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
