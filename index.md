@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Welcome
----
----
-layout: default
-title: Niels Christoffersen
+
 ---
 
 # Niels Christoffersen
