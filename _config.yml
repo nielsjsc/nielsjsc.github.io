@@ -1,23 +1,40 @@
 # Site settings
-# Change these values to personalize your site
-
-# Title of your site
 title: "Niels Christoffersen GitHub Page"
-# Description of your site
 description: "Personal website powered by Jekyll and GitHub Pages."
-# Author name
-author: "Niels Christoffersen"
+name: "Niels Christoffersen"
+email: your-email@example.com
 
-# Theme settings
-remote_theme: pages-themes/cayman@v0.2.0
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins
 plugins:
-- jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Author information
+author:
+  name: "Niels Christoffersen"
+  bio: "Your bio here"
+  location: "Your location"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nielsjsc"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/baneofian"
+
+# Site settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
 
 # Build settings
-markdown: kramdown
-
-# Exclude these files from the build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+include:
+  - _pages
