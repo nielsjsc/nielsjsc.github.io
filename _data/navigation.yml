@@ -1,0 +1,14 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
+footer:
+  - title: "GitHub"
+    url: https://github.com/nielsjsc
+  - title: "LinkedIn"
+    url: https://linkedin.com/in/nielsjsc
+  - title: "Email"
+    url: mailto:nlsc@outlook.com
