@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll with Chirpy
 on:
   push:
     branches:
-      - main  # or your default branch
+      - src  # now builds from src branch
 
 jobs:
   build-deploy:
