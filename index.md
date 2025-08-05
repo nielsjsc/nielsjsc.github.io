@@ -8,7 +8,7 @@ layout: page
 
 # About Me
 
-I'm a Full Stack Developer and ML Engineer passionate about building impactful software solutions that bridge the gap between data science and web engineering. I enjoy traveling, photography, ultimate frisbee, and cooking.
+I'm a Full Stack Developer and ML Engineer passionate about building impactful software solutions that bridge the gap between data science and web engineering.
 
 <a href="/assets/files/Niels_Christoffersen_Resume_July_2025.pdf" class="btn btn--primary" style="color: #ff9800; margin-bottom: 1em;" target="_blank" rel="noopener">Download My Resume (PDF)</a>
 ## Background
