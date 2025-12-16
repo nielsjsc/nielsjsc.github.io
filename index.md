@@ -10,7 +10,7 @@ layout: page
 
 I'm a Full Stack Developer and ML Engineer passionate about building impactful software solutions that bridge the gap between data science and web engineering.
 
-<a href="/assets/files/Niels_Christoffersen_Resume_July_2025.pdf" class="btn btn--primary" style="color: #ff9800; margin-bottom: 1em;" target="_blank" rel="noopener">Download My Resume (PDF)</a>
+<a href="/assets/files/Niels_Christoffersen_Resume_12-25.pdf" class="btn btn--primary" style="color: #ff9800; margin-bottom: 1em;" target="_blank" rel="noopener">Download My Resume (PDF)</a>
 ## Background
 
 I am computer science graduate from Reed College, which provided me with a very well rounded education with a focus in machine learning and CS theory. With expertise in machine learning, web development, and data analytics, I enjoy turning innovative ideas into reality.
